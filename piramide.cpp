@@ -6,6 +6,7 @@ int main() {
 
 int n;
 cout << "Digite o numero de linhas:  ";
+cout << endl;
 cin >> n;
 
 for (int i=1; i<=n; i++){
